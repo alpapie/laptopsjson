@@ -1,0 +1,18 @@
+{
+    "@context":"https:\/\/schema.org","@type":"Product",
+    "name":"HP ProBook 450 G6",
+    "image":[
+            {"@type":"ImageObject","url":"https:\/\/laptopmedia.com\/wp-content\/uploads\/2019\/02\/HP-ProBook-450-G6_Front.jpg"},
+            {"@type":"ImageObject","url":"https:\/\/laptopmedia.com\/wp-content\/uploads\/2019\/02\/HP-ProBook-450-G6_Front-Right.jpg"},
+            {"@type":"ImageObject","url":"https:\/\/laptopmedia.com\/wp-content\/uploads\/2019\/02\/HP-ProBook-450-G6_Front-Left.jpg"},
+            {"@type":"ImageObject","url":"https:\/\/laptopmedia.com\/wp-content\/uploads\/2019\/02\/HP-ProBook-450-G6_Rear-Left.jpg"},
+            {"@type":"ImageObject","url":"https:\/\/laptopmedia.com\/wp-content\/uploads\/2019\/02\/HP-ProBook-450-G6_180-Hinge.jpg"}
+    ],
+    "url":"https:\/\/laptopmedia.com\/laptop-specs\/hp-probook-450-g6-471\/",
+    "review":{
+        "@type":"Review","author":{"@type":"Organization","name":"LaptopMedia"},
+        "datePublished":"2019-04-11T23:28:10+00:00","dateModified":"2019-04-11T23:28:10+00:00",
+        "offers":[],"reviewRating":{"@type":"Rating","ratingValue":4,"bestRating":5,"worstRating":0}
+        },
+    "description":"Specs, Tests, and Price of HP ProBook 450 G6 with i7-8565U, UHD Graphics 620, 15.6\u201d, Full HD (1920 x 1080), TN, 128GB SSD , 1TB HDD, 64GB DDR4, Windows 10 Pro","offers":[],"aggregateRating":[],"brand":"HP","sku":"B07N56K8G2"
+}
